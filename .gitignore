@@ -6,4 +6,4 @@
 /.idea/php.xml
 /.idea/scrape.iml
 /.idea/vcs.xml
-!/dist/
+/dist/
