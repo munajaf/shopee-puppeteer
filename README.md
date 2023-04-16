@@ -6,7 +6,7 @@ can only be seen on console for now.
 
 the url i used for this example are:
 - https://shopee.com.my/3ml-5ml-Decant-Harumme-Sunday-Swim-Saxon-Nani-Musibat-Vert-Vanille-Ramadhan-1442-1443-Intensivo-01-02-i.37523632.19909323152?sp_atk=db3f5399-6dd6-4e70-b444-c463c05e8640&xptdk=db3f5399-6dd6-4e70-b444-c463c05e8640
-```json
+```
 % node index.js 
 [
   {
