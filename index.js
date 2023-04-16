@@ -65,7 +65,7 @@ const mapModelToVariations = (model, tier_variations) => {
       "--no-zygote",
       "--single-process",
       "--disable-gpu",
-      ENABLE_ROTATE_PROXY ? "--proxy-server=p.webshare.io:80" : "",
+      ENABLE_ROTATE_PROXY ? `--proxy-server=${process.env.PROXY_URL}` : "",
     ],
   });
 
